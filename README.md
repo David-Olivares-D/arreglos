@@ -1,1 +1,1 @@
-https://david-olivares-d.github.io/arreglos/propiedades_alquiler.html
+https://david-olivares-d.github.io/arreglos/propiedades_index.html
